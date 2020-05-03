@@ -1,0 +1,1570 @@
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-06-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-06-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:Course details: UserRole [username=soumitbo, password=Riju@1997, roleCode=admin]
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:Course details: UserRole [username=soumitbo, password=Riju@1997, roleCode=admin]
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-ERROR-com.cg.plp.dao.UserCreationDaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C0010545) violated
+
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.dao.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:Course details: UserRole [username=soumitbo, password=Riju@1997, roleCode=admin]
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.dao.UserCreationDaoImpl:connection established..
+2019-03-07-main-ERROR-com.cg.plp.dao.UserCreationDaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C0010545) violated
+
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=jkasdg, password=Vi345, roleCode=admin]
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-07-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-07-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-08-main-ERROR-com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:SQL statement to execute cannot be empty or null
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-08-main-ERROR-com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:SQL statement to execute cannot be empty or null
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-08-main-ERROR-com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:ORA-00911: invalid character
+
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-08-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-08-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-09-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-09-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=sdfsf, password=Sdfgdfg, roleCode=user]
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-11-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-11-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=armaan, password=Arm@76, roleCode=agent]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=vivek, password=Vj@7, roleCode=admin]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=kathir, password=A344567s, roleCode=user]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=kathireeswar, password=Kathir, roleCode=]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=kathire, password=Kathire, roleCode=user]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=agent, password=Agn*9697, roleCode=agent]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=soumit, password=S*10, roleCode=]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=sapta, password=Nil@1, roleCode=agent]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=puja, password=Pu@97, roleCode=agent]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:user details: 
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:in DAO impl class
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:Course details: UserRole [username=saptanil, password=Sap@13, roleCode=admin]
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.UserCreationDaoImpl:statement executed, course record inserted
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationQuickViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ClaimViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ValidatePolicyNumberServiceImplDao:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ViewClaimUserDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-03-12-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection object created
+2019-03-12-main-INFO -com.cg.plp.daoImpl.ReportGenerationDetailedViewDaoImpl:connection established..
+2019-03-12-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-04-21-main-INFO -com.cg.plp.ui.InsuranceMain:log4j file configured..
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:connection done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:statement done
+2019-04-21-main-INFO -com.cg.plp.daoImpl.LogInDaoImpl:validated user
